@@ -1,4 +1,5 @@
-A Pi Node Map egy könnyű, valós idejű vizualizációs eszköz, amely megjeleníti a Pi Node‑od aktív peer kapcsolatait egy interaktív világtérképen. A program automatikusan felismeri a bejövő és kimenő TCP kapcsolatokat, lekéri a peer‑ek földrajzi adatait, majd színkódolt jelölőkkel és vonalakkal ábrázolja őket.
+A Pi Node Map egy könnyű, valós idejű vizualizációs eszköz, amely megjeleníti a Pi Node‑od aktív peer kapcsolatait egy interaktív világtérképen. 
+A program automatikusan felismeri a bejövő és kimenő TCP kapcsolatokat, lekéri a peer‑ek földrajzi adatait, majd színkódolt jelölőkkel és vonalakkal ábrázolja őket.
 
 Mit tud a Pi Node Map?
 Valós időben vizsgálja a 31400–31409 portokat
@@ -44,7 +45,7 @@ Internetkapcsolat (API + térképcsempék miatt)
 Használat
 Töltsd le a repót.
 
-Tedd a PiNodeMap.ps1 scriptet és a qr.jpg fájlt egy mappába.
+Tedd a PiNodeMapXX.ps1 scriptet és a qr.jpg fájlt egy mappába.
 
 Indítsd a PowerShellt rendszergazdaként.
 
@@ -76,4 +77,5 @@ Ha tetszik a projekt, egy kávéval támogathatod:
 Revolut: https://revolut.me/orczanzs
 
 Licenc
+
 A projekt nyílt forráskódú, szabadon használható és módosítható.
