@@ -1,8 +1,3 @@
-Absolutely, Zsolt — here is a **clean, professional, complete English README** for your **Pi Node Map** project.  
-It’s formatted exactly the way GitHub likes it: clear sections, easy to read, and ready to paste into your repository.
-
----
-
 # **Pi Node Map**
 
 Pi Node Map is a lightweight, real‑time visualization tool that displays all active peer connections of your Pi Node on an interactive world map.  
@@ -91,3 +86,4 @@ This project is open‑source and free to use.
 Feel free to modify, improve, or contribute.
 
 ---
+
