@@ -5,8 +5,6 @@ It automatically detects inbound and outbound TCP connections, retrieves geoloca
 
 This project is designed for Pi Node operators who want a clear, intuitive overview of their node’s global network activity.
 
----
-
 ## **Features**
 
 - 🔍 **Real‑time scanning** of Pi Node ports `31400–31409`  
@@ -18,7 +16,6 @@ This project is designed for Pi Node operators who want a clear, intuitive overv
 - 🎨 Clean UI with legend, auto‑refresh, and optional support section  
 - 💻 Runs on Windows using PowerShell — no installation required  
 
----
 
 ## **How It Works**
 
@@ -31,7 +28,6 @@ This project is designed for Pi Node operators who want a clear, intuitive overv
    - Popups with detailed peer information  
 4. The map opens automatically in your default browser.
 
----
 
 ## **Requirements**
 
@@ -39,7 +35,6 @@ This project is designed for Pi Node operators who want a clear, intuitive overv
 - PowerShell 5.1 or PowerShell 7+  
 - Internet connection (for geolocation API + map tiles)
 
----
 
 ## **Usage**
 
@@ -86,4 +81,5 @@ This project is open‑source and free to use.
 Feel free to modify, improve, or contribute.
 
 ---
+
 
