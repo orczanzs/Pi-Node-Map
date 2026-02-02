@@ -39,7 +39,7 @@ This project is designed for Pi Node operators who want a clear, intuitive overv
 ## **Usage**
 
 1. Download the repository.  
-2. Place the script (`PiNodeMap.ps1`) and the `qr.jpg` file in the same folder.  
+2. Place the script (`PiNodeMapxx.ps1`) and the `qr.jpg` file in the same folder.  
 3. Run PowerShell as Administrator.  
 4. Navigate to the script folder:
 
@@ -81,5 +81,6 @@ This project is open‑source and free to use.
 Feel free to modify, improve, or contribute.
 
 ---
+
 
 
